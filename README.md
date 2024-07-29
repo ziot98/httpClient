@@ -6,5 +6,5 @@ It can be executed through HttpExecutor for convenient GUI-based execution.(http
 * Command Line Execute Example : java -jar C:\httpclient-jdk1.8-jar-with-dependencies.jar {\"METHOD\":\"POST\",\"HEADER\":{\"Content-Type\":\"application\/json\"},\"BODY\":\"{  \\\"testKey\\\" : \\\"testValue\\\"}\",\"URL\":\"https:\/\/testapi.com:443\/api\/test\/json.do\"} useBase64
 
 
-## Reqirements
+## Requirements
 * Java 6 or higher
